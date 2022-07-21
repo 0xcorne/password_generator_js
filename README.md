@@ -1,1 +1,1 @@
-# password_generator_js
+# password_generator_py
